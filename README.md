@@ -26,8 +26,7 @@ Turns into
 The package follows the status codes seen at
 https://www.hexcorp.net/drone-status-codes-v2.
 
-# I didn't have to type the drone ID in the AutoHotKey implementation. What
-gives?
+# I didn't have to type the drone ID in the AutoHotKey implementation. What gives?
 
 It's written this way to avoid as much configuration as possible. Plus, it
 shouldn't be too difficult to remember 4 digits right?
